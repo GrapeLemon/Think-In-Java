@@ -24,5 +24,7 @@ public class DotThis{
         DotThis dt = new DotThis();
         DotThis.Innner dti = dt.inner();
         dti.outer().f();
+        //上面那句等价于
+        dt.f();
     }
 }
