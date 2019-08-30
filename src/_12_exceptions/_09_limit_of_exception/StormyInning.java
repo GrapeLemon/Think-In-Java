@@ -1,4 +1,4 @@
-package _12_exceptions._08_finally._04_limit_of_exception;
+package _12_exceptions._09_limit_of_exception;
 
 /**
  * @Author wx-li
