@@ -6,6 +6,7 @@ import java.util.ArrayList;
  * @Author wx-li
  * @Date 2019/8/31 13:39
  * Facade to produce a default PetCreator.
+ * 等等,那那个什么 Arrays 怕不是也是所谓的门面模式吧..
  **/
 public class Pets {
     //如果想换门面的话在把实现类换掉就好了
