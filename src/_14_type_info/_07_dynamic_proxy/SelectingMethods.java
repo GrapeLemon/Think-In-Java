@@ -1,9 +1,8 @@
-package _14_type_info;
+package _14_type_info._07_dynamic_proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.util.Random;
 
 /**
  * @Author wx-li
