@@ -1,5 +1,6 @@
-package _14_type_info._09_interface_typeInfomation;
+package _14_type_info._09_interface_typeInfomation.hidden;
 
+import _14_type_info._09_interface_typeInfomation.A;
 import _14_type_info._09_interface_typeInfomation.hidden.HiddenC;
 
 import java.lang.reflect.InvocationTargetException;
