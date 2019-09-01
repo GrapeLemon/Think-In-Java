@@ -20,9 +20,12 @@ class C implements A {
     protected void v() {
         System.out.println("protected C.v()");
     }
-    private
+    private void w() {
+        System.out.println("private C.w()");
+    }
 
 }
 
 public class HiddenC {
+    public static A makeA() {return new C();}
 }
