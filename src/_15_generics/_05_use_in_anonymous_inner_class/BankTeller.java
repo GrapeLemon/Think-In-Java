@@ -16,7 +16,7 @@ class Customer {
     private final long id = counter++;
     private Customer(){}
     public String toString(){ return "Customer " + id; }
-    //A method to produce Generator objects:
+    // A method to produce Generator objects:
     
     public static Generator<Customer> generator() {
         return new Generator<Customer>() {
@@ -32,15 +32,11 @@ class Teller {
     private final long id = counter++;
     private Teller(){}
     public String toString(){ return "Teller " + id; }
-    //A method to produce Generator objects:
+    // A method to produce Generator objects:
     
     public static Generator<Teller> generator() {
-        return new Generator<Teller>() {
-            @Override
-            public Teller next() {
-                return new Teller();
-            }
-        };
+        // 这个真的牛p了
+        return Teller::new;
     }
 }
 
