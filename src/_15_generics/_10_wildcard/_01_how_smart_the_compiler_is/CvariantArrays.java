@@ -1,4 +1,4 @@
-package _15_generics._10_wildcard;
+package _15_generics._10_wildcard._01_how_smart_the_compiler_is;
 /**
  * @Author wx-li
  * @Date 2019/9/3 13:22

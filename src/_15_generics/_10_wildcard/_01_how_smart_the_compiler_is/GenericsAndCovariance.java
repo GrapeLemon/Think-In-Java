@@ -1,4 +1,4 @@
-package _15_generics._10_wildcard;
+package _15_generics._10_wildcard._01_how_smart_the_compiler_is;
 
 import java.util.ArrayList;
 import java.util.List;
