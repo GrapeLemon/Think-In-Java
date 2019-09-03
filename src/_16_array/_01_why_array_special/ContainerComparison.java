@@ -8,13 +8,7 @@ import java.util.List;
  * @Author wx-li
  * @Date 2019/9/3 16:03
  **/
-class BerylliumSphere {
-    private static long counter;
-    private final long id = counter++;
-    public String toString(){ return "Sphere " + id; }
-}
-
-public class ContainerComparison {
+ class ContainerComparison {
     public static void main(String[] args) {
         BerylliumSphere[] spheres = new BerylliumSphere[10];
         for (int i = 0; i < 5; i++)
