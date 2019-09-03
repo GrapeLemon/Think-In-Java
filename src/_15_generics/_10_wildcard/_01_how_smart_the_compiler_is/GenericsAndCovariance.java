@@ -1,5 +1,8 @@
 package _15_generics._10_wildcard._01_how_smart_the_compiler_is;
 
+import _15_generics._10_wildcard.Apple;
+import _15_generics._10_wildcard.Fruit;
+
 import java.util.ArrayList;
 import java.util.List;
 
