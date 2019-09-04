@@ -45,6 +45,6 @@ public @interface Elements {
     COLOR color();
     COLOR acolor();
     //Annotation
-    Test test();
-    Test[] atest();
+    Test test() default @Test;
+    Test[] atest()default {@Test,@Test,};
 }
