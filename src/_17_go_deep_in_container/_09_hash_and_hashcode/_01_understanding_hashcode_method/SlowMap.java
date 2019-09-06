@@ -1,5 +1,7 @@
 package _17_go_deep_in_container._09_hash_and_hashcode._01_understanding_hashcode_method;
 
+import _00_utils.Countries;
+
 import java.util.*;
 
 /**
@@ -7,7 +9,7 @@ import java.util.*;
  * @date 2019/9/5-18:43
  * A Map implemented with ArrayLists
  **/
-public class SlowMap<K,V> extends AbstractMap<K, V> {
+public class SlowMap<K,V> extends AbstractMap<K,V> {
     private List<K> keys = new ArrayList<>();
     private List<V> values = new ArrayList<>();
     public V put(K key, V value) {
@@ -39,6 +41,9 @@ public class SlowMap<K,V> extends AbstractMap<K, V> {
 
     public static void main(String[] args) {
         SlowMap<String, String> m = new SlowMap<>();
-        m.putAll();
+        m.putAll(Countries.capitals(15));
+        System.out.println(m);
+        System.out.println(m.get("BULGARIA"));
+        System.out.println(m.entrySet());
     }
 }
