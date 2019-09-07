@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bd4602e-ff05-4b15-9318-c7d12d00dba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_16_array/_01_why_array_special/BerylliumSphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_array/_02_array_is_first_level_object/ArrayOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/CountedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/IndividualTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/MapOfList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Think In Java/util/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Think In Java/util/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_16_array/_01_why_array_special/ContainerComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_array/_01_why_array_special/ContainerComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14_type_info/pets/Individual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14_type_info/pets/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_type_info/pets/Pet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,35 +42,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/StringHashCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/CountedString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/Individual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="51" column="59" lean-forward="true" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+              <folding>
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/IndividualTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_16_array/_02_array_is_first_level_object/ArrayOptions.java">
+        <entry file="file://$PROJECT_DIR$/src/_14_type_info/pets/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="224">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_16_array/_01_why_array_special/ContainerComparison.java">
+        <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/MapOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="337">
+              <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#327#356#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_16_array/_01_why_array_special/BerylliumSphere.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -86,7 +125,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>f4</find>
       <find>ln</find>
       <find>5</find>
       <find>byte</find>
@@ -116,6 +154,7 @@
       <find>Custom</find>
       <find>V</find>
       <find>//</find>
+      <find>print</find>
     </findStrings>
     <replaceStrings>
       <replace>f3</replace>
@@ -147,7 +186,7 @@
       <replace>Generator</replace>
       <replace>PowerSteering</replace>
       <replace>Tell</replace>
-      <replace>//</replace>
+      <replace>System.out.println</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -156,11 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_14_type_info/pets/EgyptianMau.java" />
-        <option value="$PROJECT_DIR$/src/_14_type_info/pets/Manx.java" />
-        <option value="$PROJECT_DIR$/src/_14_type_info/pets/Cymric.java" />
-        <option value="$PROJECT_DIR$/src/_14_type_info/pets/Rodent.java" />
-        <option value="$PROJECT_DIR$/src/_14_type_info/pets/Rat.java" />
         <option value="$PROJECT_DIR$/src/_14_type_info/pets/Mouse.java" />
         <option value="$PROJECT_DIR$/src/_14_type_info/pets/Hamster.java" />
         <option value="$PROJECT_DIR$/src/_14_type_info/pets/PerCreator.java" />
@@ -207,6 +241,11 @@
         <option value="$PROJECT_DIR$/src/_16_array/_01_why_array_special/BerylliumSphere.java" />
         <option value="$PROJECT_DIR$/src/_16_array/_01_why_array_special/ContainerComparison.java" />
         <option value="$PROJECT_DIR$/src/_16_array/_02_array_is_first_level_object/ArrayOptions.java" />
+        <option value="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/CountedString.java" />
+        <option value="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/Individual.java" />
+        <option value="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/MapOfList.java" />
+        <option value="$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/IndividualTest.java" />
+        <option value="$PROJECT_DIR$/src/_14_type_info/pets/Pet.java" />
       </list>
     </option>
   </component>
@@ -246,28 +285,42 @@
               <item name="Think-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Think-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_16_array" type="462c0819:PsiDirectoryNode" />
+              <item name="_14_type_info" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Think-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Think-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_16_array" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_why_array_special" type="462c0819:PsiDirectoryNode" />
+              <item name="_14_type_info" type="462c0819:PsiDirectoryNode" />
+              <item name="pets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Think-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Think-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_16_array" type="462c0819:PsiDirectoryNode" />
-              <item name="_02_array_is_first_level_object" type="462c0819:PsiDirectoryNode" />
+              <item name="_17_go_deep_in_container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Think-In-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Think-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_17_go_deep_in_container" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_hash_and_hashcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Think-In-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Think-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_17_go_deep_in_container" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_hash_and_hashcode" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_overwrite_hashCode_method" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayOptions">
+  <component name="RunManager" selected="Application.IndividualTest">
     <configuration name="ArrayOptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_16_array._02_array_is_first_level_object.ArrayOptions" />
       <module name="Think In Java" />
@@ -329,12 +382,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatorGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_generics._08_the_compensate_of_erased._01_create_type_instance.CreatorGeneric" />
+    <configuration name="CountedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_go_deep_in_container._09_hash_and_hashcode._03_overwrite_hashCode_method.CountedString" />
       <module name="Think In Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_15_generics._08_the_compensate_of_erased._01_create_type_instance.*" />
+          <option name="PATTERN" value="_17_go_deep_in_container._09_hash_and_hashcode._03_overwrite_hashCode_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndividualTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_go_deep_in_container._09_hash_and_hashcode._03_overwrite_hashCode_method.IndividualTest" />
+      <module name="Think In Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_17_go_deep_in_container._09_hash_and_hashcode._03_overwrite_hashCode_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,26 +421,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnboundedWildcards1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15_generics._10_wildcard._03_unbounded_wildcards.UnboundedWildcards1" />
-      <module name="Think In Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_15_generics._10_wildcard._03_unbounded_wildcards.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndividualTest" />
+        <item itemvalue="Application.CountedString" />
         <item itemvalue="Application.ArrayOptions" />
         <item itemvalue="Application.ContainerComparison" />
         <item itemvalue="Application.ListOfInt" />
-        <item itemvalue="Application.UnboundedWildcards1" />
-        <item itemvalue="Application.CreatorGeneric" />
       </list>
     </recent_temporary>
   </component>
@@ -411,17 +464,18 @@
       <workItem from="1567472415613" duration="865000" />
       <workItem from="1567492031114" duration="2176000" />
       <workItem from="1567494506216" duration="5086000" />
+      <workItem from="1567820235761" duration="1776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136977000" />
+    <option name="totallyTimeSpent" value="138753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -429,7 +483,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2462039" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3449024" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.30911064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -751,68 +805,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_14_type_info/_07_dynamic_proxy/SimpleProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_14_type_info/_07_dynamic_proxy/SimpleDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11844">
-          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_14_type_info/_07_dynamic_proxy/SelectingMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_14_type_info/_08_null_object/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learnGit/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeanrnGit/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_14_type_info/_09_interface_typeInfomation/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1163,9 +1155,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_16_array/_02_array_is_first_level_object/ArrayOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_16_array/_01_why_array_special/ContainerComparison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="224">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1176,17 +1178,72 @@
     <entry file="file://$PROJECT_DIR$/src/_16_array/_01_why_array_special/BerylliumSphere.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_16_array/_02_array_is_first_level_object/ArrayOptions.java">
+    <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/StringHashCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_14_type_info/pets/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/CountedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="51" column="59" lean-forward="true" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/MapOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_17_go_deep_in_container/_09_hash_and_hashcode/_03_overwrite_hashCode_method/IndividualTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_14_type_info/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
