@@ -57,7 +57,8 @@ public class Tester<C> {
         head.append(headline);
         head.append(' ');
         for (int i = 0; i < dashLength / 2; i++)
-            System.out.println(head);
+            head.append('-');
+        System.out.println(head);
         // Print column headers:
         System.out.format(sizeField, "size");
         for(Test test : tests)
